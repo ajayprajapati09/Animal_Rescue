@@ -314,13 +314,13 @@
           <div class="col-lg-3 col-md-6">
             <h5 class="text-light mb-4">Address</h5>
             <p class="mb-2">
-              <i class="fa fa-map-marker-alt me-3"></i>123 Street, New York, USA
+              <i class="fa fa-map-marker-alt me-3"></i>Smriti Nagar,Bhilai,Chhattisgarh
             </p>
             <p class="mb-2">
-              <i class="fa fa-phone-alt me-3"></i>+012 345 67890
+              <i class="fa fa-phone-alt me-3"></i>7987759788
             </p>
             <p class="mb-2">
-              <i class="fa fa-envelope me-3"></i>info@example.com
+              <i class="fa fa-envelope me-3"></i>wildlifesos@gmail.com
             </p>
             <div class="d-flex pt-2">
               <a class="btn btn-outline-light btn-social" href=""
@@ -354,8 +354,8 @@
             <a class="btn btn-link" href="">Support</a>
           </div>
           <div class="col-lg-3 col-md-6">
-            <h5 class="text-light mb-4">Newsletter</h5>
-            <p>Dolor amet sit justo amet elitr clita ipsum elitr est.</p>
+<!--             <h5 class="text-light mb-4">Newsletter</h5>
+            <p>Dolor amet sit justo amet elitr clita ipsum elitr est.</p> -->
             <div class="position-relative mx-auto" style="max-width: 400px">
               <input
                 class="form-control border-0 w-100 py-3 ps-4 pe-5"
